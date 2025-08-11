@@ -1,0 +1,12 @@
+# backend/.gitignore
+
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Optional: Log files, build folders etc.
+*.log
+build/
+dist/
